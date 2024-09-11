@@ -1,0 +1,4 @@
+1. npm install typescript ts-node-dev express @types/express
+2. npm init -y
+3. tsc --init - to create tsconfig.json file
+4. to run typescript node add a new script command in package.json file "ts-node-dev src/index.ts"
